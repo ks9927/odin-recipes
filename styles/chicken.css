@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background-color: rgb(189, 228, 189);
+}
+
+h1, h2 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.para, .list {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
